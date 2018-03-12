@@ -9,7 +9,7 @@ export default {
 <template>
     <section>
         <video id="mivideo" autoplay loop>
-            <source src="@/assets/627965480.mp4" type="video/mp4" />
+            <source src=".././assets/627965480.mp4" type="video/mp4" />
         </video>
 
         <div class="vertical-centered-text ha2">
